@@ -75,7 +75,8 @@
 <body>
 
 <div class="sidebar">
-    <h2>AI Platform</h2>
+    <h2>Welcome to Smart AI Workspace</h2>
+
 
     <a href="dataset.jsp">Dataset Management</a>
     <a href="training.jsp">Model Training</a>

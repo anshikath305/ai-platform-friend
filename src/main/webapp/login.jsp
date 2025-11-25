@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>AI Platform - Login</title>
+    <title>Smart AI Workspace - Login</title>
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
 <body>
 
-<h2>Login</h2>
+<h2>Login to Smart AI Workspace</h2>
 
 <% if (request.getParameter("error") != null) { %>
     <p style="color:red;">Invalid email or password!</p>

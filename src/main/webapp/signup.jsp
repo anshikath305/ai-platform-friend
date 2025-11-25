@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>AI Platform - Signup</title>
+    <title>Smart AI Workspace - Signup</title>
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>

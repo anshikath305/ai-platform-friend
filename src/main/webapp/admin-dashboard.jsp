@@ -78,7 +78,8 @@
 <body>
 
 <div class="sidebar">
-    <h2>Admin Panel</h2>
+    <h2>Admin Panel – Smart AI Workspace</h2>
+
 
     <a href="admin-dashboard.jsp">Dashboard</a>
     <a href="admin-users.jsp">Manage Users</a>

@@ -5,7 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ai.platform</groupId>
-    <artifactId>ai-platform</artifactId>
+    <artifactId>ai-platform-friend</artifactId>
+
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -57,7 +58,7 @@
     </dependencies>
 
     <build>
-        <finalName>ai-platform</finalName>
+        <finalName>ai-platform-friend</finalName>
     </build>
 
 </project>
